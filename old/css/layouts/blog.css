@@ -135,6 +135,13 @@ h3 {
     line-height: 3em;
     overflow: auto;
     padding: 5px;
+    min-height: 100%;
+}
+
+.job-summary {
+    text-align: center;
+    top: auto;
+    margin: 3em auto;
 }
 
 .brand-title,

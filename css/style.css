@@ -1,0 +1,27 @@
+.summaries {
+	font:20px arial;
+	/* height:100vh; */
+	position: absolute; 
+	top: 20%; 
+	bottom: 5%;
+	/* left: 5%; */
+	right:50%;
+	border:none;
+	overflow:auto;
+	border:1px solid black;
+	padding:5;
+}
+
+.details {
+	font:20px arial;
+	/* height:100vh; */
+	position: absolute; 
+	top: 20%; 
+	bottom: 5%;
+	left: 50%;
+
+	border:none;
+	overflow:auto;
+	border:1px solid black;
+	padding:5;
+}
