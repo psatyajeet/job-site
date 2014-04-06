@@ -1,0 +1,18 @@
+{
+  "name": "job-site",
+  "version": "0.0.1",
+  "description": "The future Princeton Jobs site",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^3.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psatyajeet/job-site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psatyajeet/job-site/issues"
+  },
+  "homepage": "https://github.com/psatyajeet/job-site"
+}
